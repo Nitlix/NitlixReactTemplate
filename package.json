@@ -1,0 +1,13 @@
+{
+    "name": "nitlixreacttemplate",
+    "version": "1.0.0",
+    "description": "🎉 A public template for superpowering React TS Packages in an instant.",
+    "main": "./dist/exports.jsx",
+    "keywords": [],
+    "author": "NITLIX HOLDINGS LTD.",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/react": "^18.2.37",
+        "react": "^18.2.0"
+    }
+}
